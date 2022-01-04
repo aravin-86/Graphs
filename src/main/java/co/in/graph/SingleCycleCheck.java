@@ -1,5 +1,8 @@
 package co.in.graph;
 
+/**
+ * @see <a href="https://www.algoexpert.io/questions/Single%20Cycle%20Check">Single Cycle Check</a>
+ */
 public class SingleCycleCheck {
 
     // O(n) Time | O(1) Space

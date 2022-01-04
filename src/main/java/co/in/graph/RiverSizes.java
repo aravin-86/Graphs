@@ -4,6 +4,9 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;
 
+/**
+ * @see <a href="https://www.algoexpert.io/questions/River%20Sizes">River Sizes</a>
+ */
 public class RiverSizes {
 
     public static List<Integer> riverSizes(int[][] matrix) {

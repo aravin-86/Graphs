@@ -5,6 +5,9 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
 
+/**
+ * @see <a href="https://leetcode.com/problems/rotting-oranges/">Rotting Oranges</a>
+ */
 public class RottingOranges {
 
     public int orangesRotting(int[][] grid) {
